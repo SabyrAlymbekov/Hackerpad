@@ -23,7 +23,7 @@ I wanted cool looking macropad for Competitive programming, so I made this one. 
 
 | Component | Quantity | Description | Notes |
 | :---- | :---- | :---- | :---- |
-| Microcontroller | 1 | Seeed Studio XIAO RP2040 | Brain of the device |
+| Microcontroller | 1 | XIAO RP2040 DIP | Brain of the device |
 | Switches | 5 | Cherry MX | Mechanical switches |
 | Keycaps | 5 | DSA profile (blank) | Keycaps |
 | Diodes | 6 | 1N4148 (through hole) | For anti-ghosting |

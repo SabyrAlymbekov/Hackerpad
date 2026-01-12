@@ -1,0 +1,11 @@
+Component,Quantity,Description,Notes
+Microcontroller,1,Seeed Studio XIAO RP2040 DIP,Brain of the device
+Switches,5,Cherry MX,Mechanical switches
+Keycaps,5,DSA profile (blank),Keycaps
+Diodes,6,1N4148 (through hole),For anti-ghosting
+Encoder,1,EC11 rotary encoder,With push button
+Display,1,0.91" OLED I2C (128x32),Pinout: GND-VCC-SCL-SDA
+Pin Header,1,1x4 pin header (2.54mm),For connecting the display
+LEDs,2,SK6812 MINI-E,Addressable RGB LEDs
+Screws,4,M3 x 10mm,Case screws
+Inserts,4,M3 heatset inserts,Threaded inserts
